@@ -17,3 +17,10 @@ color:BLUE;
 
 
 }
+.form,
+.greetings{
+  display:none;
+}
+.showing{
+  display:block;
+}
