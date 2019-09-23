@@ -1,14 +1,19 @@
 body{
 
-background-color:peru;
+background-color:#ecf0f1;
 font-family: "Times New Roman",serif;
 
 }
 h1
-{color:white;}
+{color:RED;
+transition:color 0.5s ease-in-out;
+}
+.btn{
+cursor:pointer
 
-#title{
-color:white;
+}
+.clicked{
+color:BLUE;
 
 
 }
